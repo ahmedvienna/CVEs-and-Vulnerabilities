@@ -1,6 +1,6 @@
 # Description
 
-1. stored XSS Bypass Vulnerability in phpMyFAQ
+1. stored XSS Bypass in the FAQ Fields - Vulnerability in phpMyFAQ
 1. Discoverer: Ahmed Hassan
 1. Vendor of Product: phpMyFAQ
 1. Affected Product: phpMyFAQ - 3.1.16
