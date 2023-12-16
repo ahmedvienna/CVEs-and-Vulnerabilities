@@ -34,7 +34,7 @@ CVE's assigned on huntr.dev:
 1. CVE-2023-1116 -> Collaboration -> Cross Site Scripting (XSS) in Email Blacklist
 
 CVEs outside of huntr.dev:
-CVE-2023-20188 ->Cisco Small Business 200, 300, and 500 Series Switches Web-Based Management stored XSS (Cross-Site Scripting)
-CVE-2023-20181: Cisco Small Business SPA500 Series IP Phones stored XSS Vulnerability
-CVE-2023-20218: Cisco Small Business SPA500 Series IP Phones stored HTML Injection Vulnerability
-CVE-2023-50256: Froxlor - username/surname and company field Bypass
+1. CVE-2023-20188 ->Cisco Small Business 200, 300, and 500 Series Switches Web-Based Management stored XSS (Cross-Site Scripting)
+1. CVE-2023-20181: Cisco Small Business SPA500 Series IP Phones stored XSS Vulnerability
+1. CVE-2023-20218: Cisco Small Business SPA500 Series IP Phones stored HTML Injection Vulnerability
+1. CVE-2023-50256: Froxlor - username/surname and company field Bypass
