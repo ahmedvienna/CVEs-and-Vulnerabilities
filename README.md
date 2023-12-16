@@ -7,7 +7,7 @@ Started identifying Zero-day Vulnerabilities in total 27 CVEs until now
 
 huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 
-CVE's assigned on huntr.dev:
+# CVE's assigned on huntr.dev:
 
 1. CVE-2023-6889 -> stored XSS Bypass in the TAGS Section and other places in the application
 1. CVE-2023-6890 -> stored XSS Bypass in the FAQ Fields
@@ -33,7 +33,8 @@ CVE's assigned on huntr.dev:
 1. CVE-2023-0794 -> stored HTML Injection
 1. CVE-2023-1116 -> Collaboration -> Cross Site Scripting (XSS) in Email Blacklist
 
-CVEs outside of huntr.dev:
+# CVEs outside of huntr.dev:
+
 1. CVE-2023-20188 ->Cisco Small Business 200, 300, and 500 Series Switches Web-Based Management stored XSS (Cross-Site Scripting)
 1. CVE-2023-20181: Cisco Small Business SPA500 Series IP Phones stored XSS Vulnerability
 1. CVE-2023-20218: Cisco Small Business SPA500 Series IP Phones stored HTML Injection Vulnerability
