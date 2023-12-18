@@ -3,7 +3,7 @@ Public Proof of Concepts for CVE and Vulnerabilities identified by Ahmed Hassan 
 
 A full List of my identified 27 CVEs:
 
-Started identifying Zero-day Vulnerabilities in total 27 CVEs until now
+Started identifying Zero-day Vulnerabilities in total 30 CVEs until now
 
 huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 
@@ -31,6 +31,9 @@ huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 1. CVE-2023-0792 -> HTML Injection
 1. CVE-2023-0793 -> No Password Policy at all during Registration and Password changes
 1. CVE-2023-0794 -> stored HTML Injection
+1. CVE-2023-1885 -> stored XSS in the Category Field Name
+1. CVE-2023-0787 -> stored XSS through Question sending
+1. CVE-2023-0791 -> Stored XSS - allows stealing Admin and Users Cookies
 1. CVE-2023-1116 -> Collaboration -> Cross Site Scripting (XSS) in Email Blacklist
 
 # CVEs outside of huntr.dev:
