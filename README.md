@@ -43,3 +43,6 @@ huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 1. CVE-2023-20218: Cisco Small Business SPA500 Series IP Phones stored HTML Injection Vulnerability
 1. CVE-2023-50256: Froxlor - username/surname and company field Bypass
 1. CVE-2024-0181: RRJ Nueva Ecija Engineer Online Portal 1.0 - stored XSS Bypass
+1. CVE-2024-0183 -> Engineers Online Portal Web 1.0 stored HTML-Injection in the NIA Endpoint
+1. CVE-2024-0184 -> Engineers Online Portal Web 1.0 stored XSS Bypass by adding a new Engineer
+1. CVE-2024-0185 -> Engineers Online Portal Web 1.0 stored XSS while File Upload and changing the Avatar
