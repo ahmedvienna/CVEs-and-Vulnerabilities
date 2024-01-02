@@ -1,9 +1,9 @@
 # Vulnerabilities
 Public Proof of Concepts for CVE and Vulnerabilities identified by Ahmed Hassan from Austria, VIENNA. Here you can find my identified CVEs and Vulnerabilities and how it can help you to learn from it. 
 
-A full List of my identified 34 CVEs:
+A full List of my identified 39 CVEs:
 
-Started identifying Zero-day Vulnerabilities in total 34 CVEs until now
+Started identifying Zero-day Vulnerabilities in total 39 CVEs until now
 
 huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 
