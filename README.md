@@ -51,3 +51,5 @@ huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 1. CVE-2024-0190 -> Engineers Online Portal Web 1.0 stored XSS while creating a QUIZ
 1. CVE-2024-0191 -> Engineers Online Portal Web 1.0 unauthenticated Access to the uploaded Files from all Users.
 1. CVE-2024-0192 -> Engineers Online Portal Web 1.0 Engineer can upload any File Extensions leading to stored XSS
+1. CVE-2024-0260 -> Engineers Online Portal Web 1.0 After the password change user must be logged out
+1. CVE-2024-0262 -> Online Job Portal  Web 1.0 stored XSS in the creation of new NEWS from the admin  
