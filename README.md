@@ -1,9 +1,9 @@
 # Vulnerabilities
 Public Proof of Concepts for CVE and Vulnerabilities identified by Ahmed Hassan from Austria, VIENNA. Here you can find my identified CVEs and Vulnerabilities and how it can help you to learn from it. 
 
-A full List of my identified 41 CVEs:
+A full List of my identified 46 CVEs:
 
-Started identifying Zero-day Vulnerabilities in total 41 CVEs until now
+Started identifying Zero-day Vulnerabilities in total 46 CVEs until now
 
 huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 
@@ -52,4 +52,9 @@ huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 1. CVE-2024-0191 -> Engineers Online Portal Web 1.0 unauthenticated Access to the uploaded Files from all Users.
 1. CVE-2024-0192 -> Engineers Online Portal Web 1.0 Engineer can upload any File Extensions leading to stored XSS
 1. CVE-2024-0260 -> Engineers Online Portal Web 1.0 After the password change user must be logged out
-1. CVE-2024-0262 -> Online Job Portal  Web 1.0 stored XSS in the creation of new NEWS from the admin  
+1. CVE-2024-0262 -> Online Job Portal  Web 1.0 stored XSS in the creation of new NEWS from the admin
+1. CVE-2024-0351 -> Engineers Portal Session Fiaxtion Vulnerability
+1. CVE-2024-0350 -> Creation of Engineers without to be authorized as an Admin
+1. CVE-2024-0349 -> Engineers Portal HTTPOnly and Secure Flag not set to True
+1. CVE-2024-0348 -> Engineers Portal No Size Limitation while File uploading
+1. CVE-2024-0347 -> Register an Engineer with the Password weak Password Policy 
