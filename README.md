@@ -6,7 +6,7 @@ A full List of my identified 47 CVEs:
 Started identifying Zero-day Vulnerabilities in total 47 CVEs until now
 
 huntr.dev Account: https://huntr.dev/users/ahmedvienna/
-LinkedIn Account: https://www.linkedin.com/in/ahmed-hassan-79559487/details/publications/
+LinkedIn Account: [https://www.linkedin.com/in/ahmed-hassan-79559487/details/publications/](https://www.linkedin.com/in/ahmed-hassan-79559487/)
 
 # CVE's assigned on huntr.dev:
 
