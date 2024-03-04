@@ -60,3 +60,6 @@ LinkedIn Account: [https://www.linkedin.com/in/ahmed-hassan-79559487/details/pub
 1. CVE-2024-0348 -> Engineers Portal No Size Limitation while File uploading
 1. CVE-2024-0347 -> Register an Engineer with the Password weak Password Policy
 1. CVE-2024-0262 -> Online Job Portal 1.0 Create News Page /Admin/News.php cross site scripting
+1. CVE-2024-1972 -> Online Job Portal 1.0 stored XSS Bypass in the Edit Profile
+1. CVE-2024-1922 -> stored XSS Bypass in the Description Field
+1. CVE-2024-1919 -> stored XSS Bypass in the Job Title Field
