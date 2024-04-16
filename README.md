@@ -63,3 +63,4 @@ LinkedIn Account: [https://www.linkedin.com/in/ahmed-hassan-79559487/details/pub
 1. CVE-2024-1972 -> Online Job Portal 1.0 stored XSS Bypass in the Edit Profile
 1. CVE-2024-1922 -> stored XSS Bypass in the Description Field
 1. CVE-2024-1919 -> stored XSS Bypass in the Job Title Field
+1. CVE-2024-3735 - Smart Office HSRM Solution - weak Password Policy leading to Account Takeover over
