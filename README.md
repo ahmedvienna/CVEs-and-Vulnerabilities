@@ -3,7 +3,7 @@ Public Proof of Concepts for CVE and Vulnerabilities identified by Ahmed Hassan 
 
 A full List of my identified 52 CVEs:
 
-Started identifying Zero-day Vulnerabilities in total 51 CVEs until now
+Started identifying Zero-day Vulnerabilities in total 52 CVEs until now
 
 huntr.dev Account: https://huntr.dev/users/ahmedvienna/
 LinkedIn Account: [https://www.linkedin.com/in/ahmed-hassan-79559487/details/publications/](https://www.linkedin.com/in/ahmed-hassan-79559487/)
