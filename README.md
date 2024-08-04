@@ -1,7 +1,7 @@
 # Vulnerabilities
 Public Proof of Concepts for CVE and Vulnerabilities identified by Ahmed Hassan from Austria, VIENNA. Here you can find my identified CVEs and Vulnerabilities and how it can help you to learn from it. 
 
-A full List of my identified 51 CVEs:
+A full List of my identified 52 CVEs:
 
 Started identifying Zero-day Vulnerabilities in total 51 CVEs until now
 
@@ -64,3 +64,4 @@ LinkedIn Account: [https://www.linkedin.com/in/ahmed-hassan-79559487/details/pub
 1. CVE-2024-1922 -> stored XSS Bypass in the Description Field
 1. CVE-2024-1919 -> stored XSS Bypass in the Job Title Field
 1. CVE-2024-3735 - Smart Office HSRM Solution - weak Password Policy leading to Account Takeover over
+1. CVE-2024-7466 - PMWeb bypassing the Web Application Firewall leading to a stored XSS
