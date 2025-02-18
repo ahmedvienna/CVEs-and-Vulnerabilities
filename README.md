@@ -65,3 +65,4 @@ LinkedIn Account: [https://www.linkedin.com/in/ahmed-hassan-79559487/details/pub
 1. CVE-2024-1919 -> stored XSS Bypass in the Job Title Field
 1. CVE-2024-3735 - Smart Office HSRM Solution - weak Password Policy leading to Account Takeover over
 1. CVE-2024-7466 - PMWeb bypassing the Web Application Firewall leading to a stored XSS
+1. CVE-2025-1341 - Weak Password Policy PMWeb allowing Account Takeover of any user 
